@@ -1,0 +1,34 @@
+{
+  "0": {
+    "name": "All networks",
+    "icon": "https://raw.githubusercontent.com/HyperSwap-Labs/chains/refs/heads/main/assets/0.svg"
+  },
+  "42161": {
+    "name": "Arbitrum",
+    "icon": "https://icons.llamao.fi/icons/chains/rsz_arbitrum?w=48&h=48"
+  },
+  "8453": {
+    "name": "Base",
+    "icon": "https://icons.llamao.fi/icons/chains/rsz_base?w=48&h=48"
+  },
+  "56": {
+    "name": "Binance Smart Chain",
+    "icon": "https://icons.llamao.fi/icons/chains/rsz_bsc?w=48&h=48"
+  },
+  "1": {
+    "name": "Ethereum",
+    "icon": "https://icons.llamao.fi/icons/chains/rsz_ethereum?w=48&h=48"
+  },
+  "999": {
+    "name": "HyperEVM",
+    "icon": "https://icons.llamao.fi/icons/protocols/hyperliquid?w=48&h=48"
+  },
+  "10": {
+    "name": "Optimism",
+    "icon": "https://icons.llamao.fi/icons/protocols/optimism-foundation?w=48&h=48"
+  },
+  "137": {
+    "name": "Polygon",
+    "icon": "https://icons.llamao.fi/icons/chains/rsz_polygon?w=48&h=48"
+  }
+}
