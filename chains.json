@@ -50,7 +50,7 @@
   "999": {
     "name": "HyperEVM",
     "icon": "https://icons.llamao.fi/icons/protocols/hyperliquid?w=48&h=48",
-    "rpcUrls": ["https://rpc.hyperevm.io"],
+    "rpcUrls": ["https://rpc.hyperliquid.xyz/evm"],
     "nativeCurrency": {
       "name": "HYPE",
       "symbol": "HYPE",
